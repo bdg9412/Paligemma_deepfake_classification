@@ -12,7 +12,6 @@
 ## Key Point
 - MultiModal 모델 활용
 - QLora 적용
-- CoT(Chain-of-Thought) 적용
 
 ## Methods
 - Model
