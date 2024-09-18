@@ -18,7 +18,7 @@
     - google/paligemma-3b-pt-224 (코랩 / L4에서 학습 진행)   
         - Gemma 중 multimodal 모델 선택  
 - Data Processing
-    - question 컬럼에 대하여 직접 생성 진행 (단순 질문 : step loss[135400] / 정보 추가 질문 : step )
+    - question 컬럼에 대하여 직접 생성 진행 (단순 질문 : step loss[0.135400] / 정보 추가 질문 : step loss[0.118300])
      
 ## Reference
 huggingface/transformers (https://github.com/huggingface/transformers)  
