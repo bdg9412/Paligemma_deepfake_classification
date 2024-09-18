@@ -23,7 +23,7 @@
      
 ## Reference
 huggingface/transformers (https://github.com/huggingface/transformers)  
-https://github.com/merveenoyan/smol-vision  
+paligemma finetuning (https://github.com/merveenoyan/smol-vision)    
 https://www.youtube.com/watch?v=iyYh4PQBI9U  
 https://github.com/bdg9412/2024_Korean_CCI  
 
