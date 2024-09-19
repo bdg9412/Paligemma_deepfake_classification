@@ -19,12 +19,22 @@
         - Gemma 중 multimodal 모델 선택  
 - Data Processing
     - question 컬럼에 대하여 직접 생성 진행 (단순 질문 : step loss[0.135400] / 정보 추가 질문 : step loss[0.118300])
+    - 단순히 question 컬럼에 정보를 추가하는 경우 step loss는 줄어들었지만 분류 능력은 하락하는 것 확인  
+      (MM-CoT 관련 논문에서도 LLM에 CoT를 추가하는 식의 접근 방법은 성능 향상에 큰 도움이 안되는 내용 확인)
      
 ## Reference
 huggingface/transformers (https://github.com/huggingface/transformers)  
 paligemma finetuning (https://github.com/merveenoyan/smol-vision)    
 https://www.youtube.com/watch?v=iyYh4PQBI9U  
 https://github.com/bdg9412/2024_Korean_CCI  
-
+@misc{zhang2024multimodalchainofthoughtreasoninglanguage,
+      title={Multimodal Chain-of-Thought Reasoning in Language Models}, 
+      author={Zhuosheng Zhang and Aston Zhang and Mu Li and Hai Zhao and George Karypis and Alex Smola},
+      year={2024},
+      eprint={2302.00923},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2302.00923}, 
+}
 ## License  
 Gemma 2 License: https://ai.google.dev/gemma/terms  
