@@ -1,7 +1,7 @@
 # Paligemma_deepfake_classification
 본 리포지토리는 [2024 Aifactory Geema hackathon](https://aifactory.space/task/2733/overview) 아이디어 기획에 대한 구현 소스 코드를 포함하고 있습니다.
 
-## 파인튜닝 목적  
+## Purpose  
 - 생성형 AI 모델을 딥페이크 이미지 분류에 특화되도록 파인튜닝 수행  
 
 ## Data Format
