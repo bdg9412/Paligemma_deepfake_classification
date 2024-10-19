@@ -1,6 +1,10 @@
 # Paligemma_deepfake_classification
 본 리포지토리는 [2024 Aifactory Geema hackathon](https://aifactory.space/task/2733/overview) 아이디어 기획에 대한 구현 소스 코드를 포함하고 있습니다.
 
+## 경진대회 결과
+- 대상 수상  
+![image](https://github.com/user-attachments/assets/91bbaeac-75c2-4fa5-bd94-031ed78e6a5a)
+
 ## Purpose  
 - 생성형 AI 모델을 딥페이크 이미지 분류에 특화되도록 파인튜닝 수행  
 
