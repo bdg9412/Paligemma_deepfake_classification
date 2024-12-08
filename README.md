@@ -36,6 +36,9 @@
 ## Results  
 - Paligemma를 활용하여 Deepfake 이미지 분류 모델 학습 및 추론 진행  
   - 0 (deepfake 이미지) / 1 (normal 이미지) 분류 확인 완료 (https://github.com/bdg9412/Paligemma_deepfake_classification/blob/main/Fine_tuned_Model_Inference_202409.ipynb)
+  - 1000개 이미지 대상 accuracy : 94.80 (label 분포 : {0: 541, 1: 459})  
+   
+
      
 ## Reference
 huggingface/transformers (https://github.com/huggingface/transformers)  
