@@ -36,7 +36,7 @@
 ## Results  
 - Paligemma를 활용하여 Deepfake 이미지 분류 모델 학습 및 추론 진행  
   - 0 (deepfake 이미지) / 1 (normal 이미지) 분류 확인 완료  
-  - 10 epoch 학습 이후 1000개 이미지 대상 accuracy 측정 결과 : 94.80 (label 분포 : {0: 541, 1: 459})  (https://github.com/bdg9412/Paligemma_deepfake_classification/blob/main/Results/Fine-tuned%20Model_Inference_DeepFake_classification.ipynb)
+  - 10 epoch 학습 이후 1000개 이미지 대상 accuracy 측정 결과 : 94.80 (label 분포 : {0: 541, 1: 459})  [Predict Result](https://github.com/bdg9412/Paligemma_deepfake_classification/blob/main/Results/Fine-tuned%20Model_Inference_DeepFake_classification.ipynb)
    
 
      
